@@ -121,13 +121,13 @@ Since the application is a web-based application there is a need for the interne
 •	View all details: View the details of all Doctors and control the whole site                                      
 •	Advertising the Site: Responsible for making advertisements for the site                                                                     
 
-     ####  3.1.2 Visitors:                         
+     3.1.2 Visitors:                         
 •	Login: Visitors must have a valid login id to enter the site                                 
 •	Registration: New user can sign up by creating new ID                                                                         
 •	View and Edit Own Details: Can view/edit his personal details about services provided.                                                         
 •	Giving Feedback to Consultant Care: Can give feedback to the 24*7 Consultant Care Service center about their impression for the site and services              
 
-       ####  3.1.3 Navigation System:                 
+       3.1.3 Navigation System:                 
 •	Find Doctors: From here visitors can Find Doctors                                      
 •	About Us: Visitors can learn about the hospital                                                       
 •	Departments: Visitors can also find Doctors from respective Departments                                                      
