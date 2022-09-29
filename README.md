@@ -91,7 +91,7 @@ User: Visitors
 	Signup                                                                                            
 	Only View                                                                                                 
 
-User characteristics                                                                                            	
+User characteristics                                                                                                                                                         	
 •	The user should be familiar with new web application.                                                          
 •	The user should be familiar with the Internet.                                                                       
 
@@ -115,47 +115,47 @@ Since the application is a web-based application there is a need for the interne
 
 ### 3. Requirements
 #### 3.1.	Functional Requirements:
-### 3.1.1. Administrator:
-•	Database Management: Control the database and keep track of all record of Doctors and patients’ details
-•	 Contact and appointment: Contact with the doctors and get permission for appointment
-•	View all details: View the details of all Doctors and control the whole site
-•	Advertising the Site: Responsible for making advertisements for the site
+#### 3.1.1. Administrator:                                                 
+•	Database Management: Control the database and keep track of all record of Doctors and patients’ details                                            
+•	 Contact and appointment: Contact with the doctors and get permission for appointment                                                   
+•	View all details: View the details of all Doctors and control the whole site                                      
+•	Advertising the Site: Responsible for making advertisements for the site                                                                     
 
-      3.1.2 Visitors:
-•	Login: Visitors must have a valid login id to enter the site
-•	Registration: New user can sign up by creating new ID
-•	View and Edit Own Details: Can view/edit his personal details about services provided.
-•	Giving Feedback to Consultant Care: Can give feedback to the 24*7 Consultant Care Service center about their impression for the site and services  
+     ####  3.1.2 Visitors:                         
+•	Login: Visitors must have a valid login id to enter the site                                 
+•	Registration: New user can sign up by creating new ID                                                                         
+•	View and Edit Own Details: Can view/edit his personal details about services provided.                                                         
+•	Giving Feedback to Consultant Care: Can give feedback to the 24*7 Consultant Care Service center about their impression for the site and services              
 
-        3.1.3 Navigation System:
-•	Find Doctors: From here visitors can Find Doctors 
-•	About Us: Visitors can learn about the hospital
-•	Departments: Visitors can also find Doctors from respective Departments
-•	Contact: Visitors can get in touch with the Webpage authority from here.
+       ####  3.1.3 Navigation System:                 
+•	Find Doctors: From here visitors can Find Doctors                                      
+•	About Us: Visitors can learn about the hospital                                                       
+•	Departments: Visitors can also find Doctors from respective Departments                                                      
+•	Contact: Visitors can get in touch with the Webpage authority from here.                                                               
         
-       3.1.4. Short Directory of Appointment Booking System
-       3.1.5. Quick Links       
-3.2. Nonfunctional requirements
-   3.2.1. Performance Requirements
-•	The system shall accommodate high number of and users without any fault.
-•	Response to view information shall take no longer than 5 seconds to appear on the screen 
+      ####  3.1.4. Short Directory of Appointment Booking System                                                
+      ####  3.1.5. Quick Links                                                            
+#### 3.2. Nonfunctional requirements                     
+  #### 3.2.1. Performance Requirements                              
+•	The system shall accommodate high number of and users without any fault.                            
+•	Response to view information shall take no longer than 5 seconds to appear on the screen                                          
 
-   3.2.2. Safety Requirements
+   #### 3.2.2. Safety Requirements
 •	System use shall not cause any harm to human users
 
-  3.2.3. Security System
-•	System will use secured database
-•	Normal users can just read information but they cannot edit or modify anything except their personal and some other information.
-•	System will have different types of users and every user has access constraints.
+  #### 3.2.3. Security System
+•	System will use secured database                                           
+•	Normal users can just read information but they cannot edit or modify anything except their personal and some other information.                              
+•	System will have different types of users and every user has access constraints.                                      
 
-3.3. Platforms
-   3.3.1. Frontend
-•	HTML
-•	CSS
-•	Java-script (j-query & ajax)
-•	Bootstrap
+#### 3.3. Platforms
+  ####  3.3.1. Frontend                           
+•	HTML                                                                                 
+•	CSS                                                                                                         
+•	Java-script (j-query & ajax)                                                                                     
+•	Bootstrap                                                                                                   
 
-  3.3.2. Backend
-•	PHP(Laravel)
-•	MySQL
+  #### 3.3.2. Backend
+•	PHP(Laravel)                                                                   
+•	MySQL                                                                              
 	
