@@ -72,50 +72,50 @@ Risk in healthcare comprises the clinical and administrative systems, processes,
 
 
  
-2.	Overall Description
-2.1. 	User Classes and Characteristics
-User: Admin
-•	Functions: The Administrator is the super user and has complete control over all the activities that can be performed. The application notifies the administrator of all reviews and if their unethical issues then the administrator can reject them. 
-	Approving/Reject Comment
-	Add Data
-	Manages the list of Hospital, Doctors, and their location
+### 2.	Overall Description
+#### 2.1. 	User Classes and Characteristics                             
+User: Admin                                        
+•	Functions: The Administrator is the super user and has complete control over all the activities that can be performed. The application notifies the administrator of all reviews and if their unethical issues then the administrator can reject them.                                  
+	Approving/Reject Comment                                  
+	Add Data                                       
+	Manages the list of Hospital, Doctors, and their location                                           
 
-User: Users
-•	Functions:  
-	Login/ Signup
-	Add/ Delete Comment (with Picture)
-	Doctor’s review
+User: Users                                                             
+•	Functions:                                                 
+	Login/ Signup                                         
+	Add/ Delete Comment (with Picture)                                                      
+	Doctor’s review                                                                   
 
-User: Visitors
-•	Functions:  
-	Signup
-	Only View
+User: Visitors                                                            
+•	Functions:                                                                         
+	Signup                                                                                            
+	Only View                                                                                                 
 
-User characteristics	
-•	The user should be familiar with new web application.
-•	The user should be familiar with the Internet.
+User characteristics                                                                                            	
+•	The user should be familiar with new web application.                                                          
+•	The user should be familiar with the Internet.                                                                       
 
-2.2.	User Needs
-User needs are the needs that a user has of a service, and which that service must satisfy for the user to get the right outcome for them.
-Services designed around users and their needs:
-are more likely to be used help more people get the right outcome for them - and so achieve their policy intent cost less to operate by reducing time and money spent on resolving problems
+#### 2.2.	User Needs
+User needs are the needs that a user has of a service, and which that service must satisfy for the user to get the right outcome for them.                    
+Services designed around users and their needs:                        
+are more likely to be used help more people get the right outcome for them - and so achieve their policy intent cost less to operate by reducing time and money spent on resolving problems             
 
-2.3.	Operating Environment
+#### 2.3.	Operating Environment
 This website shall operate in all famous browsers, for a model we are taking Microsoft Internet Explorer versions 7.0, 8.0 and 9.0.
 
-2.4.	Constraints
-•	There is no maintainability of back up so availability will get affected. 
-•	Limited to HTTP/HTTPS.
-•	No multilingual support.
+#### 2.4.	Constraints              
+•	There is no maintainability of back up so availability will get affected.                                
+•	Limited to HTTP/HTTPS.                                        
+•	No multilingual support.                                        
 
-2.5.	Assumptions and Dependencies
-It is assumed that alumni data will be made available for the project in some phase of its completion. Until then, test data will be used for providing the demo for the presentations. It is assumed that the user is familiar with an internet browser and also familiar with handling the keyboard and mouse.
+#### 2.5.	Assumptions and Dependencies
+It is assumed that alumni data will be made available for the project in some phase of its completion. Until then, test data will be used for providing the demo for the presentations. It is assumed that the user is familiar with an internet browser and also familiar with handling the keyboard and mouse.                       
 
 Since the application is a web-based application there is a need for the internet browser. It will be assumed that the users will possess decent internet connectivity.
 
-3. Requirements
-3.1.	Functional Requirements:
-3.1.1. Administrator:
+### 3. Requirements
+#### 3.1.	Functional Requirements:
+### 3.1.1. Administrator:
 •	Database Management: Control the database and keep track of all record of Doctors and patients’ details
 •	 Contact and appointment: Contact with the doctors and get permission for appointment
 •	View all details: View the details of all Doctors and control the whole site
