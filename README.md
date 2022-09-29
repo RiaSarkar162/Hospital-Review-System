@@ -133,8 +133,8 @@ Since the application is a web-based application there is a need for the interne
 •	Departments: Visitors can also find Doctors from respective Departments                                                      
 •	Contact: Visitors can get in touch with the Webpage authority from here.                                                               
         
-      ####  3.1.4. Short Directory of Appointment Booking System                                                
-      ####  3.1.5. Quick Links                                                            
+    3.1.4. Short Directory of Appointment Booking System                                                
+    3.1.5. Quick Links                                                            
 #### 3.2. Nonfunctional requirements                     
   #### 3.2.1. Performance Requirements                              
 •	The system shall accommodate high number of and users without any fault.                            
