@@ -27,50 +27,47 @@
 3.2. Non-functional Requirements                                                    
 3.3. Platforms                                                                                        
 
+### 1.	 Introduction 
 
- 
-SRS Outline
+#### 1.1.	Purpose     
+•	The Software is for the automation of Hospital Review                                    
+•	It maintains two levels of users                                                         
+(1) Admin Level                                        
+(2) User Level                                                      
+•	Providing Doctors overview and review from other users.                                          
+•	User can provide their Opinion and review in front of audience.                                  
+•	Providing Doctors overview and review from other users.                                   
+•	Providing Nearby available doctor status and hospital location.                                                 
+•	Providing Top Health News, Ranging depends on satisfaction level.                                                         
 
-1.	 Introduction
-1.1.	Purpose
-•	The Software is for the automation of Hospital Review
-•	It maintains two levels of users
-(1) Admin Level
-(2) User Level
-•	Providing Doctors overview and review from other users.
-•	User can provide their Opinion and review in front of audience.
-•	Providing Doctors overview and review from other users.
-•	Providing Nearby available doctor status and hospital location.
-•	Providing Top Health News, Ranging depends on satisfaction level.
+#### 1.2.	Intended Audience
+This Software Requirements document is intended for:                                                        
 
-1.2.	Intended Audience
-This Software Requirements document is intended for: 
+	Developers who can review project’s capabilities and more easily understand where their efforts should be targeted to improve or add more features to it (design and code the application – it sets the guidelines for future development).                                                         
 
-	Developers who can review project’s capabilities and more easily understand where their efforts should be targeted to improve or add more features to it (design and code the application – it sets the guidelines for future development). 
+	Project Admin can add their data in server and control the whole users.                              
 
-	Project Admin can add their data in server and control the whole users.
+	End Users (not allowed for below 18) of this application who wish to read and they can share their experience, also they can add a number like a score which ensure their satisfaction level.                                          
 
-	End Users (not allowed for below 18) of this application who wish to read and they can share their experience, also they can add a number like a score which ensure their satisfaction level.
+#### 1.3.	Intended Use
+This web application is a platform where patient or attendant provide their satisfaction level in front every user. They can share their experience in a text message in review section.  So, people can get best available nearby doctors easily. Any unethical, unusual comment will be hidden by admin panel, admin panel will monitor every comment which will give a better experience to the users.                        
 
-1.3.	Intended Use
-This web application is a platform where patient or attendant provide their satisfaction level in front every user. They can share their experience in a text message in review section.  So, people can get best available nearby doctors easily. Any unethical, unusual comment will be hidden by admin panel, admin panel will monitor every comment which will give a better experience to the users.
-
-1.4.	Product Scope
+#### 1.4.	Product Scope
  The product scope can be defined as the features and functions that characterize a product. In the case of a service, product scope focuses on the actual tasks and responsibilities of the personnel delivering the service, also focuses on how it works, how it is physically made and how it can be improved in future iterations.
-Features and Function: 
-•	It mainly has two features. One for admins(developer) and another one for users (patients and attendant).
-•	It has Feedback mechanism, so that patients or users can give their feedback in a text message or they can rate in number.
-•	24 X 7 availability. 
+Features and Function:                                 
+•	It mainly has two features. One for admins(developer) and another one for users (patients and attendant).                             
+•	It has Feedback mechanism, so that patients or users can give their feedback in a text message or they can rate in number.                                
+•	24 X 7 availability.                                    
 
-Actual Tasks and Responsibilities: 
-•	Secure registration and profile management facilities for the patients and attendant
-•	Adequate searching mechanisms for easy and quick access to find out nearby hospitals and doctors.
-•	Strategic data and graphs for hospitals about their services.
-•	Maintaining database of regular user of different needs.
-•	Secure access of confidential data (user’s details).
-•	Administrators are responsible for internal affairs like add data in server and delete any irrelevant comment of the users.   
+Actual Tasks and Responsibilities:                                        
+•	Secure registration and profile management facilities for the patients and attendant                             
+•	Adequate searching mechanisms for easy and quick access to find out nearby hospitals and doctors.                                
+•	Strategic data and graphs for hospitals about their services.                                          
+•	Maintaining database of regular user of different needs.                                                     
+•	Secure access of confidential data (user’s details).                                               
+•	Administrators are responsible for internal affairs like add data in server and delete any irrelevant comment of the users.                                  
 
-1.5.	Risk Definition
+#### 1.5.	Risk Definition                                       
 Risk in healthcare comprises the clinical and administrative systems, processes, and reports employed to detect, monitor, assess, mitigate, and prevent risks.
 
 
